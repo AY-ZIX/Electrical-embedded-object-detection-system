@@ -30,4 +30,4 @@ pip install -r requirements.txt
 ```bash
 python start-menu.py
 ```
-3. Choose the language and press Start Detection. The system will then automatically run the main detection program using the Raspberry Pi camera.?
+3. Choose the language and press Start Detection. The system will then automatically run the main detection program using the Raspberry Pi camera.
