@@ -1,0 +1,1 @@
+Ceci est un pilote TB6600. Il est utilisé pour contrôler de grands moteurs pas à pas avec un courant élevé, souvent dans les machines CNC.

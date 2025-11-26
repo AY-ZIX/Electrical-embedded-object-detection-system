@@ -1,0 +1,1 @@
+This is an L293D motor driver. It allows you to control DC motors in both directions, commonly used in small robotics projects.

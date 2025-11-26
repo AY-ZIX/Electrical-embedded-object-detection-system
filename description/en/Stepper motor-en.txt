@@ -1,0 +1,1 @@
+This is a Stepper Motor. Moves in precise steps, allowing accurate positioning, widely used in CNC machines and 3D printers.

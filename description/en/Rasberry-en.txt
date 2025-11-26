@@ -1,0 +1,1 @@
+This is a Raspberry Pi. A small single-board computer used in robotics, IoT, and multimedia projects.

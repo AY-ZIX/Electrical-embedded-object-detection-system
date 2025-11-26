@@ -1,0 +1,1 @@
+This is a Perforated PCB. A board with holes for soldering electronic components, used for prototyping circuits.

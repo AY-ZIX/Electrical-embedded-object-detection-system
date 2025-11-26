@@ -1,0 +1,1 @@
+This is a GPS module. It receives satellite signals to determine geographic location, often used in navigation and tracking projects.

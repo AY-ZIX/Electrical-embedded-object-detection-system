@@ -1,0 +1,1 @@
+This is a Display. Can show text, graphics, or videos depending on the type, used to provide visual feedback in projects.

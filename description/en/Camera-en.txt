@@ -1,0 +1,1 @@
+This is a Camera. It captures images or videos for visual processing. Commonly used in robotics, surveillance, or computer vision projects.

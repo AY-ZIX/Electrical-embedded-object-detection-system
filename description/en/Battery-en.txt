@@ -1,0 +1,1 @@
+This is a Battery. A device that stores chemical energy and converts it into electrical energy. It powers circuits, microcontrollers, and other electronic components.

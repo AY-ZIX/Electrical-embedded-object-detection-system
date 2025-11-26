@@ -1,0 +1,1 @@
+Ceci est une carte Arduino. Une plateforme de microcontrôleur populaire utilisée pour le prototypage en électronique et en robotique.

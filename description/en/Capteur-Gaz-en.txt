@@ -1,0 +1,1 @@
+This is a Gas Sensor. It detects the presence or concentration of gases in the environment, useful in safety projects like smoke or gas leak detectors.

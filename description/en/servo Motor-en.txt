@@ -1,0 +1,1 @@
+This is a Servo Motor. A motor with precise control over angular position, commonly used in robotics and automation.

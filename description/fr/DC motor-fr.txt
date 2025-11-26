@@ -1,0 +1,1 @@
+Ceci est un moteur à courant continu. Il convertit l’énergie électrique en rotation mécanique, utilisé dans les ventilateurs, roues et actionneurs robotiques.

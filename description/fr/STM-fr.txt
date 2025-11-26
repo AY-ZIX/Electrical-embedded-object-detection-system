@@ -1,0 +1,1 @@
+Ceci est un microcontrôleur STM. Faisant partie de la série STM32, il est utilisé dans les systèmes embarqués offrant de hautes performances et une grande flexibilité.

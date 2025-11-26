@@ -1,0 +1,1 @@
+Ceci est une caméra. Elle capture des images ou des vidéos pour le traitement visuel. Couramment utilisée en robotique, surveillance ou projets de vision par ordinateur.

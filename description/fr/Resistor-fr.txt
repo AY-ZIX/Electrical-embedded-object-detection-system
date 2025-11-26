@@ -1,0 +1,1 @@
+Ceci est une résistance. Elle limite le flux de courant électrique dans un circuit, utilisée pour protéger les composants et contrôler les tensions.

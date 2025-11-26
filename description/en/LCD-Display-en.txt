@@ -1,0 +1,1 @@
+This is an LCD Display. It shows text, numbers, or graphics from a microcontroller, useful for user interfaces in projects.

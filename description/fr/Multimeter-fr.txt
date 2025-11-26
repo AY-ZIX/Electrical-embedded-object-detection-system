@@ -1,0 +1,1 @@
+Ceci est un multimètre. Un outil pour mesurer la tension, le courant et la résistance dans les circuits électroniques, essentiel pour le dépannage.

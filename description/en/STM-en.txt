@@ -1,0 +1,1 @@
+This is an STM microcontroller. Part of the STM32 series, it is used for embedded systems with high performance and flexibility.

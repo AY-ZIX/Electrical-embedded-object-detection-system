@@ -1,0 +1,1 @@
+Ceci est un capteur de gaz. Il détecte la présence ou la concentration de gaz dans l’environnement, utile dans des projets de sécurité comme les détecteurs de fumée ou de fuite de gaz.

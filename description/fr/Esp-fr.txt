@@ -1,0 +1,1 @@
+Ceci est un microcontrôleur ESP. Équipé du Wi-Fi et du Bluetooth, il est idéal pour les projets IoT afin de connecter des appareils à Internet.

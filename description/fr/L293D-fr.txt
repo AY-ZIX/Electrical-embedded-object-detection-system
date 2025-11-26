@@ -1,0 +1,1 @@
+Ceci est un pilote L293D. Il permet de contrôler des moteurs à courant continu dans les deux sens, couramment utilisé dans de petits projets robotiques.

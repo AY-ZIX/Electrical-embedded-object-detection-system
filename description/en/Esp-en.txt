@@ -1,0 +1,1 @@
+This is an ESP microcontroller. Equipped with Wi-Fi and Bluetooth, it is ideal for IoT projects to connect devices to the internet.

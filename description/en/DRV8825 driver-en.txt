@@ -1,0 +1,1 @@
+This is a DRV8825 motor driver. It controls stepper motors with precise movements, widely used in 3D printers and robotics.

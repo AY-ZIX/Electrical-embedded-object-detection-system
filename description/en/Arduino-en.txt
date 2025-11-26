@@ -1,0 +1,1 @@
+This is an Arduino board. A popular microcontroller platform used for prototyping electronics and robotics projects.

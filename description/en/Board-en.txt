@@ -1,0 +1,1 @@
+This is a generic Board. It can refer to a microcontroller board or a prototyping board used to assemble circuits.

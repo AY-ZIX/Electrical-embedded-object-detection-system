@@ -1,0 +1,1 @@
+Ceci est un moteur pas à pas. Il se déplace par pas précis, permettant un positionnement exact, largement utilisé dans les CNC et imprimantes 3D.

@@ -1,0 +1,1 @@
+Arduino is an open-source electronics platform. It is based on easy-to-use hardware and software, and it is often used for building electronics projects like robots, sensors, and smart systems.

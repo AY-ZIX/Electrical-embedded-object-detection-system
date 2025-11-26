@@ -1,0 +1,1 @@
+Ceci est un écran. Il peut afficher du texte, des graphiques ou des vidéos selon le type, utilisé pour fournir un retour visuel dans les projets.

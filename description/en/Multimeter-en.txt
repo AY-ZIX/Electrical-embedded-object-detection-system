@@ -1,0 +1,1 @@
+This is a Multimeter. A tool for measuring voltage, current, and resistance in electronic circuits, essential for debugging.

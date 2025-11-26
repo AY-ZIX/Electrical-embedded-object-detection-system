@@ -1,0 +1,1 @@
+Ceci est une LED. Une diode électroluminescente qui s’allume lorsqu’elle est alimentée, utilisée pour les indicateurs, signaux ou affichages.

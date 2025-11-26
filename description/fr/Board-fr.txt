@@ -1,0 +1,1 @@
+Ceci est une carte générique. Elle peut désigner une carte microcontrôleur ou une carte de prototypage utilisée pour assembler des circuits.

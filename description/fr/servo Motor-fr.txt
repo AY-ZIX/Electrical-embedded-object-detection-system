@@ -1,0 +1,1 @@
+Ceci est un servomoteur. Un moteur avec un contrôle précis de la position angulaire, couramment utilisé en robotique et automatisation.

@@ -1,0 +1,1 @@
+Ceci est un Raspberry Pi. Un petit ordinateur monocarte utilisé en robotique, IoT et projets multimédia.

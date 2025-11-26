@@ -1,0 +1,1 @@
+This is an LED. A light-emitting diode that lights up when powered, used for indicators, signals, or displays.

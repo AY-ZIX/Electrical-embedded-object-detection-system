@@ -1,0 +1,1 @@
+Ceci est un écran LCD. Il affiche du texte, des nombres ou des graphiques à partir d’un microcontrôleur, utile pour les interfaces utilisateur.

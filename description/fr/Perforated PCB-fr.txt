@@ -1,0 +1,1 @@
+Ceci est une carte PCB perforée. Une carte avec des trous pour souder des composants électroniques, utilisée pour le prototypage de circuits.

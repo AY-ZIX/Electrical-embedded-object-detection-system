@@ -1,0 +1,1 @@
+This is a Resistor. Limits the flow of electric current in a circuit, used to protect components and control voltages.

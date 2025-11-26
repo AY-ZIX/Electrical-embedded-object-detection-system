@@ -1,0 +1,1 @@
+This is a TB6600 stepper motor driver. It is used to control large stepper motors with high current, often in CNC machines.

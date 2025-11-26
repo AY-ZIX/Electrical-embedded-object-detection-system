@@ -1,0 +1,1 @@
+This is a DC Motor. Converts electrical energy into mechanical rotation, used in fans, wheels, and robotic actuators.

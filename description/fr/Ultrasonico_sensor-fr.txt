@@ -1,0 +1,1 @@
+Ceci est un capteur à ultrasons. Il mesure la distance en envoyant des ondes sonores et en détectant les échos, couramment utilisé pour la détection d’obstacles.
